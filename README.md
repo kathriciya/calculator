@@ -1,17 +1,30 @@
-# calculator
+# Calculator
 
-project-test
+## A simple calculator project build with React.
 
-### Команды
+### Functionality
 
-Запуск сервера для разработки
-`npm run start`
+- addition
+- subtraction
+- multiplication
+- division
+- floating-point numbers
 
-Сборка проекта без оптимизации
-`npm run build-dev`
+### Stack
 
-Сборка проекта с оптимизацией
-`npm run build-prod`
+- HTML
+- CSS
+- SCSS
+- JavaScript
+- React Hook
+- Webpack
 
-Очистка папки dist
-`npm run clear`
+### Try it out
+
+Clone repository to your machine `git clone https://github.com/kathriciya/calculator`
+
+Go to project folder `cd calculator`
+
+Install packages and dependencies `npm install`
+
+Start dev server `npm run start`
