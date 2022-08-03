@@ -1,17 +1,17 @@
 {
-	"presets": [
-		[
-			"@babel/preset-env",
-			{
-				"useBuiltIns": "entry",
-				"corejs": "^3.24.1"
-			}
-		],
-		[
-			"@babel/preset-react",
-			{
-				"runtime": "automatic"
-			}
-		]
-	]
+  "presets": [
+    [
+      "@babel/preset-env",
+      {
+        "useBuiltIns": "entry",
+        "corejs": "^3.24.1"
+      }
+    ],
+    [
+      "@babel/preset-react",
+      {
+        "runtime": "automatic"
+      }
+    ]
+  ]
 }
