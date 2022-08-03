@@ -1,0 +1,13 @@
+@import './../../style/variable';
+.wrap {
+	width: 340px;
+	height: 540px;
+	padding: 20px;
+	border-radius: 10px;
+	background-color: $main;
+	background-image: linear-gradient(315deg, $main 0%, #28313b 74%);
+	box-shadow: inset 0 0 6px 1px rgba(0, 0, 0, 0.8),
+		inset rgba(0, 0, 0, 0.3) -5px -5px 8px 5px,
+		inset rgba(255, 255, 255, 0.5) 5px 5px 8px 5px,
+		1px 1px 1px rgba(255, 255, 255, 0.1), -2px -2px 5px rgba(0, 0, 0, 0.5);
+}
